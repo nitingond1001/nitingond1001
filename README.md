@@ -58,6 +58,9 @@
   </a>
 </p>
 
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/nitingond1001/nitingond1001/blob/main/Nitin_Gond_Resume.pdf)
+
 ---
 
 > “One commit a day keeps stagnation away.”  
