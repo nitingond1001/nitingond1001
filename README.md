@@ -59,7 +59,7 @@
 </p>
 
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/nitingond1001/nitingond1001/blob/main/Nitin_Gond_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/nitingond1001/nitingond1001/blob/main/_Nitin_Gond_Resume.pdf)
 
 ---
 
