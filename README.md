@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nitin Gond</h1>
 
 <p align="center">
-  💻 B.Tech CSE Graduate • ☕ Aspiring Software Engineer • 🔧 Backend Developer in Progress  
+  💻 B.Tech CSE Graduate • ☕ Aspiring Software Engineer • 🔧 Fullstack Developer in Progress  
 </p>
 
 ---
