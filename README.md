@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Gond</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Fullstack+Developer+%7C+Java+%7C;Leetcode+Contest+Coder+%7C+DSA+Warrior;Aspiring+SDE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Fullstack+Developer+%7C+Java;Leetcode+Contest+Coder+%7C+DSA+Warrior;Aspiring+SDE" alt="Typing SVG" />
 </p>
 
 <p align="center">
