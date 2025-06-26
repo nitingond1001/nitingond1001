@@ -9,25 +9,37 @@
 ### 🚀 About Me
 
 - 🎯 Focused on mastering **Java**, **Spring Boot**, and **DSA**
-- 📚 Consistently solving coding problems & learning system design
-- 🧠 Believer in continuous learning and clean code practices
-- 🛠️ Open to collaboration, feedback, and learning opportunities
+- 📚 Consistently solving coding problems on **LeetCode** and **GFG**
+- 🧠 Strong foundation in **System Design**, OOP, and clean code
+- 🛠️ Built real-world projects like a **restaurant table reservation system** and a **weather forecasting app**
+- 📈 Currently ranked in the **top 4.72% globally** on LeetCode with `Knight` badge  
+- 🎖️ Participated in **Azuga Coding Challenges** and placed in the top 3!
 
 ---
 
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/DSA-FE7E2D?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA"/>
-  <img src="https://img.shields.io/badge/System_Design-7A5DC7?style=for-the-badge&logo=system-design&logoColor=white" alt="System Design"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
+---
+
+### 💼 Projects
+
+- 🛍️ [Restaurant Table Reservation System](https://github.com/nitingond1001/restaurant-reservation-system)  
+  Built with Node.js, MongoDB, TypeScript, and Nodemailer. Features real-time booking & admin dashboard.
+
+- 🌦️ [Weather Forecasting App](https://github.com/nitingond1001/Weather-Forecasting-App)  
+  Android app using Kotlin & Jetpack Compose for weather updates across 100+ global cities.
 
 ---
 
@@ -40,10 +52,23 @@
 
 ---
 
-### 🔍 Currently Exploring
+### 🧠 LeetCode Insights
 
-- ✅ Backend API Development with Spring Boot  
-- ✅ Real-world DSA problems in Java and C++
+- 🎖️ **Knight Badge**, Contest Rating: `1888`
+- 🌍 **Global Rank:** `32,393` out of `711,693`  
+- 🧩 Solved `80+` problems | Top `4.72%`  
+- 🔁 Regular Contest Participant  
+- 📄 [LeetCode Profile →](https://leetcode.com/nitin_11/)
+
+---
+
+### 📜 Resume & Certifications
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/nitingond1001/nitingond1001/blob/main/Nitin_Gond_Resume.pdf)
+
+- Microsoft Azure AZ 900
+- Java Full Stack Development – Cipher School
+- DSA Self-Paced – GeeksforGeeks
 
 ---
 
@@ -53,15 +78,15 @@
   <a href="https://linkedin.com/in/nitingond" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:nitingond1603@gmail.com">
+  <a href="mailto:nitingond1602@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nitingond1001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/nitingond1001/nitingond1001/blob/main/_Nitin_Gond_Resume.pdf)
-
 ---
 
-> “One commit a day keeps stagnation away.”  
-> 🌟 Thanks for stopping by my profile — stay tuned for upcoming projects!
+> 🧠 “One commit a day keeps stagnation away.”  
+> 🚀 Thanks for visiting — new projects on the way!
