@@ -1,43 +1,47 @@
-<h1 align="center">Hi there 👋, I'm Nitin Gond</h1>
+<h1 align="center">Hi 👋, I'm Nitin Gond</h1>
 
 <p align="center">
-  💻 B.Tech CSE Graduate • ☕ Aspiring Software Engineer • 🔧 Fullstack Developer in Progress  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Fullstack+Developer+%7C+Java+%7C+Spring+Boot;Leetcode+Contest+Coder+%7C+DSA+Warrior;Aspiring+SDE+at+a+Product+Company" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  💻 B.Tech CSE Graduate • ☕ Software Engineer in Making • 🚀 Fullstack Developer | Backend Focused  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎯 Focused on mastering **Java**, **Spring Boot**, and **DSA**
-- 📚 Consistently solving coding problems on **LeetCode** and **GFG**
-- 🧠 Building strong foundation in **System Design**, OOP, and clean code
-- 🛠️ Working on real-world projects like a **restaurant table reservation system**
-- 📈 Currently ranked in the **top 4.72% globally** on LeetCode with `Knight` badge  
-- 🎖️ Participated in **Azuga Coding Challenges** and placed in the top 3!
+- 🎯 Passionate about solving problems in **Java**, **Spring Boot**, and mastering **DSA**
+- 🧠 Building scalable backend systems and writing clean, maintainable code
+- 📈 Currently in **Top 4.72% globally** on LeetCode with **Knight Badge**
+- 🎖️ Ranked 3rd in **Azuga Code Quality Challenge**
+- 🔭 Building a real-world **Restaurant Table Reservation System**
+- 🌱 Learning System Design | Clean Architecture | Deployment
 
 ---
 
 ### 🧰 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,kotlin,html,css,js,react,nodejs,express,mongodb,mysql,git,linux,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitingond1001&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingond1001&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nitingond1001&theme=tokyonight&margin-w=10&row=2&column=3" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitingond1001&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitingond1001&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -45,38 +49,53 @@
 ### 🧠 LeetCode Insights
 
 - 🎖️ **Knight Badge**, Contest Rating: `1888`
-- 🌍 **Global Rank:** `32,393` out of `711,693`  
-- 🧩 Solved `80+` problems | Top `4.72%`  
-- 🔁 Regular Contest Participant  
-- 📄 [LeetCode Profile →](https://leetcode.com/nitin_11/)
+- 🌍 **Global Rank:** `32,393` / `711,693`  
+- 🧩 Solved `80+` quality problems  
+- 🔁 Regular contest participant  
+- 🔗 [LeetCode Profile →](https://leetcode.com/nitin_11/)
 
 ---
 
-### 📜 Resume & Certifications
+### 💼 Projects
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/nitingond1001/nitingond1001/blob/main/Nitin_Gond_Resume.pdf)
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [Restaurant Table Reservation System](https://github.com/nitingond1001/restaurant-reservation-system) | `Node.js`, `MongoDB`, `TypeScript`, `Nodemailer` | Real-time booking, admin dashboard, email notifications |
+| [Weather Forecasting App](https://github.com/nitingond1001/Weather-Forecasting-App) | `Kotlin`, `Jetpack Compose`, `Android SDK` | Real-time weather for 100+ cities with a responsive UI |
 
-- Microsoft Azure AZ 900
-- Java Full Stack Development – Cipher School
-- DSA Self-Paced – GeeksforGeeks
+---
+
+### 🎓 Resume & Certifications
+
+[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/nitingond1001/nitingond1001/blob/main/Nitin_Gond_Resume.pdf)
+
+- ☁️ Microsoft Azure AZ-900
+- 👨‍💻 Java Full Stack – Cipher School
+- 🔁 DSA Self-Paced – GeeksforGeeks
 
 ---
 
 ### 🌐 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/nitingond" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nitingond1602@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/nitingond1001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/nitingond1001">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-> 🧠 “One commit a day keeps stagnation away.”  
-> 🚀 Thanks for visiting — new projects on the way!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitingond1001&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
+</p>
+
+---
+
+> ✨ *“One commit a day keeps stagnation away.”*  
+> 🚀 *Thanks for visiting – new projects are on the way!*
