@@ -33,16 +33,6 @@
 
 ---
 
-### 💼 Projects
-
-- 🛍️ [Restaurant Table Reservation System](https://github.com/nitingond1001/restaurant-reservation-system)  
-  Built with Node.js, MongoDB, TypeScript, and Nodemailer. Features real-time booking & admin dashboard.
-
-- 🌦️ [Weather Forecasting App](https://github.com/nitingond1001/Weather-Forecasting-App)  
-  Android app using Kotlin & Jetpack Compose for weather updates across 100+ global cities.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
