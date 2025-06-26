@@ -3,7 +3,7 @@
 <h1>Hi there 👋, I'm <span style="color:#F39C12">Nitin Gond</span></h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Backend+Developer+%7C+Spring+Boot+%7C+Java;LeetCode+Knight+%7C+System+Design+Learner;Passionate+Coder+and+Builder!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Backend+Developer+%7C+Java;LeetCode+Knight;Passionate+Coder+and+Builder!" alt="Typing SVG" />
 </p>
 
 <div style="border: 2px dashed #00BFFF; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto;">
