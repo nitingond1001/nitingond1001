@@ -10,8 +10,8 @@
 
 - 🎯 Focused on mastering **Java**, **Spring Boot**, and **DSA**
 - 📚 Consistently solving coding problems on **LeetCode** and **GFG**
-- 🧠 Strong foundation in **System Design**, OOP, and clean code
-- 🛠️ Built real-world projects like a **restaurant table reservation system** and a **weather forecasting app**
+- 🧠 Building strong foundation in **System Design**, OOP, and clean code
+- 🛠️ Working on real-world projects like a **restaurant table reservation system**
 - 📈 Currently ranked in the **top 4.72% globally** on LeetCode with `Knight` badge  
 - 🎖️ Participated in **Azuga Coding Challenges** and placed in the top 3!
 
