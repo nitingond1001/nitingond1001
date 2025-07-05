@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=flat-square&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Contest Rating-1888-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Top%204.72%25-LeetCode-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-80%2B%20Problems-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-100%2B%20Problems-brightgreen?style=flat-square" />
 </p>
 
 <div style="border: 2px dashed #00BFFF; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto;">
