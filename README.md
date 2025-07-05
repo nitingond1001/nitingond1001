@@ -6,9 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Backend+Developer+%7C+Java;LeetCode+Knight;Passionate+Coder+and+Builder!" alt="Typing SVG" />
 </p>
 
+<!-- 🏅 BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nitingond1001?label=GitHub%20Followers&style=social" />
+  <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contest Rating-1888-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Top%204.72%25-LeetCode-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-80%2B%20Problems-brightgreen?style=flat-square" />
+</p>
+
 <div style="border: 2px dashed #00BFFF; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto;">
   <p><strong>💡B.Tech CSE Graduate | Backend-Focused Developer | Passionate about Clean Code & Architecture</strong></p>
-  <p>🔥 Solved 80+ DSA problems | Top 4.72% on LeetCode | Contest Rating: <strong>1888</strong></p>
+  <p>🔥 Solved 100+ DSA problems | Top 4.72% on LeetCode | Contest Rating: <strong>1888</strong></p>
   <p>🏆 Azuga Code Challenge Top 3 | Real-world Spring Boot & Node.js Projects</p>
 </div>
 
@@ -44,7 +53,7 @@
 
 - 🎖️ **Knight Badge**, Contest Rating: `1888`
 - 🌍 **Top 4.72%** globally
-- 🧩 Solved `80+` problems
+- 🧩 Solved `100+` problems
 - 🔁 Active contest participant  
 - 🔗 [LeetCode Profile →](https://leetcode.com/nitin_11/)
 
@@ -61,7 +70,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,kotlin,nodejs,mongodb,mysql,react,html,css,js,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,kotlin,nodejs,mongodb,mysql,react,html,css,js,git,github,vscode,linux,windows,macos" />
 </p>
 
 ---
