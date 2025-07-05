@@ -8,7 +8,6 @@
 
 <!-- 🏅 BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nitingond1001?label=GitHub%20Followers&style=social" />
   <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=flat-square&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Contest Rating-1888-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Top%204.72%25-LeetCode-success?style=flat-square" />
