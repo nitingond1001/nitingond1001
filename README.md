@@ -3,20 +3,19 @@
 <h1>Hi there 👋, I'm <span style="color:#F39C12">Nitin Gond</span></h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Backend+Developer+%7C+Java;LeetCode+Knight;Passionate+Coder+and+Builder!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Backend+Developer+%7C+Java;Passionate+Coder+and+Builder!" alt="Typing SVG" />
 </p>
 
 <!-- 🏅 BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contest Rating-1888-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Top%204.72%25-LeetCode-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contest Rating-1812-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Top%207.12%25-LeetCode-success?style=flat-square" />
   <img src="https://img.shields.io/badge/DSA-100%2B%20Problems-brightgreen?style=flat-square" />
 </p>
 
 <div style="border: 2px dashed #00BFFF; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto;">
   <p><strong>💡B.Tech CSE Graduate | Backend-Focused Developer | Passionate about Clean Code & Architecture</strong></p>
-  <p>🔥 Solved 100+ DSA problems | Top 4.72% on LeetCode | Contest Rating: <strong>1888</strong></p>
+  <p>🔥 Solved 300+ DSA problems | Top 7.12% on LeetCode | Contest Rating: <strong>1812</strong></p>
   <p>🏆 Azuga Code Challenge Top 3 | Real-world Spring Boot & Node.js Projects</p>
 </div>
 
@@ -50,10 +49,9 @@
 
 ### 🧠 LeetCode Insights
 
-- 🎖️ **Knight Badge**, Contest Rating: `1888`
-- 🌍 **Top 4.72%** globally
-- 🧩 Solved `100+` problems
-- 🔁 Active contest participant  
+- 🎖️ Contest Rating: `1812`
+- 🌍 **Top 7.12%** globally
+- 🧩 Solved `300+` problems
 - 🔗 [LeetCode Profile →](https://leetcode.com/nitin_11/)
 
 ---
