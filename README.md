@@ -41,7 +41,7 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [Genly](https://genly-lemon.vercel.app/) | Next.js, TypeScript, Tailwind CSS, Clerk, PostgreSQL (Neon), OpenAI API | AI-powered app builder that generates full-stack applications from natural language prompts |
+| [Genly](https://genly-lemon.vercel.app/) | Next.js, TypeScript, Tailwind CSS, Clerk, PostgreSQL (Neon), OpenAI API | AI-powered website builder that generates full-stack websites from natural language prompts |
 | [Personal Portfolio Website](https://nitingond1001.github.io/Nitin-s-Portfolio/) | HTML, CSS, JavaScript, TailwindCSS | Responsive design, project showcase, smooth scroll, contact section |
 | [Weather Forecasting App](https://github.com/nitingond1001/Weather-Forecasting-App) | Kotlin, Jetpack Compose | Android app for weather updates in 100+ cities |
 
