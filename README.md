@@ -41,7 +41,7 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [Virtual Assistant](https://github.com/nitingond1001/virtualAssistant.git) | React, Node.js, Express, MongoDB, Gemini AI, Web Speech API, JWT, bcryptjs, Multer, Cloudinary, Render | JARVIS-style AI assistant with voice input/output, smart AI replies, authentication, and customization features |
+| [Virtual Assistant](https://virtualassistant-i2k1.onrender.com) | React, Node.js, Express, MongoDB, Gemini AI, Web Speech API, JWT, bcryptjs, Multer, Cloudinary, Render | JARVIS-style AI assistant with voice input/output, smart AI replies, authentication, and customization features |
 | [Genly](https://genly-lemon.vercel.app/) | Next.js, TypeScript, Tailwind CSS, Clerk, PostgreSQL (Neon), OpenAI API | AI-powered website builder that generates full-stack websites from natural language prompts |
 | [Personal Portfolio Website](https://nitingond1001.github.io/Nitin-s-Portfolio/) | HTML, CSS, JavaScript, TailwindCSS | Responsive design, project showcase, smooth scroll, contact section |
 
