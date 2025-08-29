@@ -22,7 +22,7 @@
 <br/>
 
 <p>
-  <a href="https://github.com/nitingond1001/nitingond1001/blob/main/Nitin_Gond_Resume.pdf" target="_blank">
+  <a href="https://github.com/nitingond1001/nitingond1001/blob/main/Nitin__Gond__Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/My Resume-View-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
   </a>
   <a href="mailto:nitingond1602@gmail.com">
