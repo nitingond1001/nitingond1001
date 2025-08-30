@@ -9,14 +9,14 @@
 <!-- 🏅 BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contest Rating-1812-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Top%207.12%25-LeetCode-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-300%2B%20Problems-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Top%207.09%25-LeetCode-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-brightgreen?style=flat-square" />
 </p>
 
 <div style="border: 2px dashed #00BFFF; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto;">
   <p><strong>💡B.Tech CSE Graduate | Backend-Focused Developer | Passionate about Clean Code & Architecture</strong></p>
-  <p>🔥 Solved 300+ DSA problems | Top 7.12% on LeetCode | Contest Rating: <strong>1812</strong></p>
-  <p>🏆 Azuga Code Challenge Top 3 | Real-world Spring Boot & Node.js Projects</p>
+  <p>🔥 Solved 500+ DSA problems | Top 7.09% on LeetCode | Contest Rating: <strong>1812</strong></p>
+  <p>🏆 Azuga Code Challenge Top 3 | Real-world MERN Stack Projects</p>
 </div>
 
 <br/>
