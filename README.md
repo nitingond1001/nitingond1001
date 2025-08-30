@@ -52,7 +52,7 @@
 ### 🧠 LeetCode Insights
 
 - 🎖️ Contest Rating: `1812`
-- 🌍 **Top 7.12%** globally
+- 🌍 **Top 7.09%** globally
 - 🧩 Solved `200+` problems
 - 🔗 [LeetCode Profile →](https://leetcode.com/nitin_11/)
 
