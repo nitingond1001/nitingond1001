@@ -87,7 +87,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitingond1001&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=nitingond1001&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitingond1001&show_icons=true&theme=tokyonight" width="60%" />
 </p>
 
 ---
