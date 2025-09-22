@@ -9,13 +9,13 @@
 <!-- 🏅 BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contest Rating-1812-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Top%207.09%25-LeetCode-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Top%207.07%25-LeetCode-success?style=flat-square" />
   <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-brightgreen?style=flat-square" />
 </p>
 
 <div style="border: 2px dashed #00BFFF; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto;">
   <p><strong>💡B.Tech CSE Graduate | Backend-Focused Developer | Passionate about Clean Code & Architecture</strong></p>
-  <p>🔥 Solved 500+ DSA problems | Top 7.09% on LeetCode | Contest Rating: <strong>1812</strong></p>
+  <p>🔥 Solved 500+ DSA problems | Top 7.07% on LeetCode | Contest Rating: <strong>1812</strong></p>
   <p>🏆 Azuga Code Challenge Top 3 | Real-world MERN Stack Projects</p>
 </div>
 
@@ -52,8 +52,8 @@
 ### 🧠 LeetCode Insights
 
 - 🎖️ Contest Rating: `1812`
-- 🌍 **Top 7.09%** globally
-- 🧩 Solved `200+` problems
+- 🌍 **Top 7.07%** globally
+- 🧩 Solved `300+` problems
 - 🔗 [LeetCode Profile →](https://leetcode.com/nitin_11/)
 
 ---
