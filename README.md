@@ -58,6 +58,19 @@
 
 ---
 
+### 📊 GitHub & DSA Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitingond1001&show_icons=true&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nitin_11?theme=dark&ext=contest" width="48%" height="300" />
+  <img src="https://gfgstatscard.vercel.app/nitingond?theme=dark" width="48%" height="300" />
+</p>
+
+---
+
 ### 📜 Certifications
 
 - ☁️ **Microsoft Azure AZ-900** – Udemy  
@@ -80,19 +93,6 @@
 - ✔️ Time Management  
 - ✔️ Communication & Collaboration  
 - ✔️ Adaptability in fast-paced environments
-
----
-
-### 📊 GitHub & DSA Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitingond1001&show_icons=true&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nitin_11?theme=dark&ext=contest" width="48%" height="300" />
-  <img src="https://gfgstatscard.vercel.app/nitingond?theme=dark" width="48%" height="300" />
-</p>
 
 ---
 
