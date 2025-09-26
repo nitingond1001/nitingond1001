@@ -87,12 +87,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitingond1001&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/nitin_11?theme=dark&ext=activity" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://gfg-stats.vercel.app/api?user=nitingond&theme=dark" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/nitin_11?theme=dark&ext=contest" width="48%" />
+  <img src="https://gfgstatscard.vercel.app/nitingond?theme=dark" width="48%" />
 </p>
+
 
 ---
 
