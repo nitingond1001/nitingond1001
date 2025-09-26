@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/heynitinn?theme=dark&ext=contest" width="48%" height="300" />
+  <img src="https://leetcard.jacoblin.cool/nitin_11?theme=dark&ext=contest" width="48%" height="300" />
   <img src="https://gfgstatscard.vercel.app/nitingond?theme=dark" width="48%" height="300" />
 </p>
 
