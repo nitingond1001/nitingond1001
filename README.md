@@ -83,11 +83,15 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub & DSA Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitingond1001&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=nitingond1001&theme=tokyonight" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/heynitinn?theme=dark&ext=activity" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://gfg-stats.vercel.app/api?user=nitingond&theme=dark" width="48%" />
 </p>
 
 ---
