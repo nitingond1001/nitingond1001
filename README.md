@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center">
 
-<h1>Hi there 👋, I'm <span style="color:#F39C12">Nitin Gond</span></h1>
+<h1>Hi there 👋, I'm <span style="color:#F39C12">Nitin Kumar Gond</span></h1>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Backend+Developer+%7C+MERN+Stack;Passionate+Coder+and+Builder!" alt="Typing SVG" />
